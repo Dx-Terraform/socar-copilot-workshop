@@ -1,6 +1,6 @@
 ## Günün Kapanışı
 
-> [REVİZE EDİLECEK] — Bu bölümün içeriği eğitmenle birlikte gözden geçirilecektir.
+> Bu bölümün içeriği eğitmenle birlikte gözden geçirilecektir.
 
 ### Agent Test Kontrol Listesi
 
@@ -28,11 +28,4 @@ Bugün kurduğunuz sistem; bir şartname belgesini anlayan, kriter taslağı olu
 onayıyla ya da revizyonla kriterleri kesinleştiren, ikili kıyaslama anketi toplayan ve matris
 hesaplamasıyla öncelik ağırlıklarını üretip yorumlayan bir yapay zeka agent'ıdır.
 
-Sonraki adımlar için birkaç öneri:
 
-- Adaptif kartları kendi kullanım senaryonuza göre JSON üzerinden özelleştirin.
-- Ana kriterleri ve alt kriterleri farklı şartname türleri için uyarlayın.
-- Debug log node'unu üretim öncesinde kaldırın.
-- Agent'ı gerçek bir SharePoint veya Teams kanalına yayımlamayı deneyin.
-
-[REVİZE EDİLECEK]
