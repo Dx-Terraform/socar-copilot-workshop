@@ -17,7 +17,6 @@
 - [ ] Hesaplama sonuçları (`CriteriaResult`, `Consistency`, `TopCriteria`,
 - [ ] `SupplierScores`, `BestSupplier`, `BestScore`) doğru görünüyor.
 - [ ] `AHPSummary` özeti tutarlı ve okunabilir biçimde üretiliyor.
-- [ ] Akış boyunca test amaçlı eklenen geçici node'lar temizlenmiş durumda.
 - [ ] Topic `End current topic` ile kapanıyor; agent sonsuz döngüye girmiyor.
 
 ### Workshop Sonu
